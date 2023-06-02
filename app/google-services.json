@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542486211376",
+    "firebase_url": "https://lms-ignou-default-rtdb.firebaseio.com",
+    "project_id": "lms-ignou",
+    "storage_bucket": "lms-ignou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542486211376:android:563142f6ad1aaaade7b6f5",
+        "android_client_info": {
+          "package_name": "com.codinggeekers.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542486211376-4dh1s12ieqce62hes0rtmc5b4svbesv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codinggeekers.lms",
+            "certificate_hash": "b8b9fc3f30485dc186a76de75e99260c4a13b104"
+          }
+        },
+        {
+          "client_id": "542486211376-c4fddhhei1sk8uid3lrmbvcuvsaq928q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIvLoSmyRGBUTDeGiknnTret_ohmgMHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542486211376-c4fddhhei1sk8uid3lrmbvcuvsaq928q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

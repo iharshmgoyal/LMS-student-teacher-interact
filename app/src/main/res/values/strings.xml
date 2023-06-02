@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">LMS - Student Teacher Interact</string>
+    <string name="home">Home</string>
+    <string name="follow">Follow</string>
+    <string name="add_post">Add Post</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="don_t_have_an_account">Don\'t have an Account??</string>
+    <string name="register_here">Register here</string>
+    <string name="login_here">Login here</string>
+    <string-array name="university_select">
+        <item>Select University</item>
+        <item>Indira Gandhi National Open University</item>
+        <item>Delhi University</item>
+        <item>Guru Gobind Singh Indraprastha University</item>
+        <item>Sharda University</item>
+        <item>Galgotia University</item>
+        <item>Hindu College, Moradabad</item>
+    </string-array>
+    <string-array name="role_select">
+        <item>Select Role</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+    <string name="university_prompt">Choose your University</string>
+    <string name="role_prompt">Choose your Role</string>
+    <string name="submit">Submit</string>
+    <string name="university_select_text">Choose your University and Role</string>
+    <string name="create_account">Create account</string>
+    <string name="password">Password</string>
+    <string name="duration_in_years">Duration in years</string>
+    <string name="programme">Programme</string>
+    <string name="dob">DOB</string>
+    <string name="email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="update_details">Update Details</string>
+    <string name="direct_message">Direct Message</string>
+    <string name="username">Username</string>
+    <string name="notes">Notes</string>
+    <string name="notes_and_todo">Notes and ToDo</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="login">Login</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="group_chat">Group Chat</string>
+    <string name="create_a_new_group">Create a new Group</string>
+    <string name="group_name">Group Name</string>
+    <string name="create_group">Create Group</string>
+    <string name="select_group_members">Select Group members</string>
+    <string name="message">Message</string>
+</resources>
